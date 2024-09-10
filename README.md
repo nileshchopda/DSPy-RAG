@@ -58,7 +58,7 @@ This will:
 
 ## Results
 
-The system achieves an Exact Match score of 44.0 on the HotPotQA development set.
+The system achieves DSPy RAG pipeline on the HotPotQA development set.
 
 ## Contributing
 
